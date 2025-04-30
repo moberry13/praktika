@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (kal.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  graf.cpp
+C:\Users\annbe\Desktop\lab\kal\kal\graf.cpp(29,21): warning C4101: x1: неиспользованная локальная переменная
+C:\Users\annbe\Desktop\lab\kal\kal\graf.cpp(29,25): warning C4101: x2: неиспользованная локальная переменная
+  kal.vcxproj -> C:\Users\annbe\Desktop\lab\kal\x64\Debug\kalkulyator.exe
